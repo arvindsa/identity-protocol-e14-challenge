@@ -1,0 +1,15 @@
+# Machine-specific SDK paths — copy this file to sdk.local.ps1 and fill in your paths.
+# sdk.local.ps1 is gitignored so each machine keeps its own copy.
+#
+# Use Windows backslash paths.
+#
+# You can also skip this file entirely by setting the LPSDK_ROOT environment
+# variable in Windows System Properties → Environment Variables, or in your
+# PowerShell profile:
+#   $env:LPSDK_ROOT = "D:\tools\maxim"
+
+# Prefer an environment variable if already set (e.g. from System Properties)
+if (-not $LPSDK_ROOT) { $LPSDK_ROOT = $env:LPSDK_ROOT }
+
+# Fall back to the path configured on this machine
+if (-not $LPSDK_ROOT) { $LPSDK_ROOT = "C:\path\to\your\lpsdk" }

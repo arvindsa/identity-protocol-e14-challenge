@@ -1,0 +1,13 @@
+# Machine-specific SDK paths — copy this file to sdk.local.mk and fill in your paths.
+# sdk.local.mk is gitignored so each machine keeps its own copy.
+#
+# Use MSYS/Unix path format (forward slashes, drive letter as /d/ etc.)
+#
+#   Windows example:  LPSDK_ROOT ?= /d/tools/maxim
+#   Linux example:    LPSDK_ROOT ?= /opt/maxim-lpsdk
+#
+# Using ?= means an LPSDK_ROOT environment variable (or make command-line
+# argument) takes precedence over this file, so you can also just export
+# LPSDK_ROOT in your shell profile and skip creating sdk.local.mk entirely.
+
+LPSDK_ROOT ?= /path/to/your/lpsdk
