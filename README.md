@@ -20,9 +20,9 @@ The ID card (MAX32630FTHR + ATECC508A) unlocks once via PIN, then silently perfo
 - **Networking**: Ethernet FeatherWing
 - **Actuation**: Motor FeatherWing
 
-## Pin Connections (MAX32630FTHR)
+## Pin Connections 
 
-### BLE — PAN1326B / CC2564B (internal, not on Feather header)
+### BLE — PAN1326B
 
 | Pin  | Signal       | Function                        |
 |------|--------------|---------------------------------|
