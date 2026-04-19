@@ -84,7 +84,7 @@ This project is documented as a design challenge series on element14. Each post 
 - [Part 3 -- Unboxing and Blinking with Maxim LPSDK](https://community.element14.com/challenges-projects/design-challenges/smart-security-and-surveillance/f/forum/56840/identity-protocol---part-3---unboxing-and-blinking-with-maxim-lpsdk)
 - [Part 4 -- BLE using PAN1326B and BTstack](https://community.element14.com/challenges-projects/design-challenges/smart-security-and-surveillance/f/forum/56853/identity-protocol---part-4---ble-using-pan1326b-and-btstack)
 - [Part 5 -- Interfacing a Keypad](https://community.element14.com/challenges-projects/design-challenges/smart-security-and-surveillance/f/forum/56856/identity-protocol---part-5---interfacing-a-keypad)
-- Part 6 -- BMI160 IMU: *(coming soon)*
+- [Part 6 -- BMI160 IMU Interfacing and Snatch detection](https://community.element14.com/challenges-projects/design-challenges/smart-security-and-surveillance/f/forum/56861/identity-protocol---part-6---snatch-detection-with-the-bmi160-imu)  
 - Part 7 -- ICLED Feather Wing: *(coming soon)*
 - Part 8 -- ATECC508A:  *(coming soon)*
 - Part 9 -- BLE GATT Communication: *(coming soon)*
